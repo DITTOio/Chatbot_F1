@@ -8,7 +8,7 @@ Este projeto permite perguntar sobre corridas, pilotos, estatísticas, tempos de
 ---
 
 ## Demonstração
-*(adicione seu link quando publicar no Streamlit Cloud)*
+**
 
 ---
 
