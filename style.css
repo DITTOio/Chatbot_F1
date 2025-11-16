@@ -1,0 +1,54 @@
+html, body, [class*="css"]  {
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    background-color: #0b0d0f;
+}
+
+/* Título */
+.title-f1 {
+    font-size: 40px;
+    font-weight: 700;
+    color: #e10600;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Caixa principal */
+.main-box {
+    background-color: #111417;
+    padding: 30px;
+    border-radius: 18px;
+    max-width: 800px;
+    margin: auto;
+    box-shadow: 0 0 25px rgba(225, 6, 0, 0.2);
+}
+
+/* Caixa de resposta */
+.answer-box {
+    margin-top: 20px;
+    background-color: #122016;
+    padding: 20px;
+    border-radius: 12px;
+    color: #d6ffd6;
+    font-size: 17px;
+    border-left: 5px solid #2ecc71;
+}
+
+/* Botão */
+.stButton>button {
+    background-color: #e10600;
+    color: white;
+    border-radius: 8px;
+    padding: 10px 18px;
+    font-size: 16px;
+    font-weight: 600;
+    border: none;
+    transition: 0.3s;
+}
+
+.stButton>button:hover {
+    background-color: #b30500;
+    color: white;
+}
