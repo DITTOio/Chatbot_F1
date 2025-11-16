@@ -17,8 +17,7 @@ Este projeto permite perguntar sobre corridas, pilotos, estatísticas, tempos de
 - Responde perguntas gerais sobre Fórmula 1 usando IA  
 - Consulta resultados da última corrida  
 - Obtém tempos de volta de pilotos usando FastF1  
-- Exibe informações de GPs (ano, local, data)  
-- Interface visual customizada (tema F1 vermelho/preto)  
+- Exibe informações de GPs (ano, local, data)    
 
 ---
 
