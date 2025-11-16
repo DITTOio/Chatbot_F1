@@ -24,12 +24,12 @@ Este projeto permite perguntar sobre corridas, pilotos, estatísticas, tempos de
 
 ## Estrutura do Projeto
 Chatbot_F1/
-│── app.py |
-│── utils_f1.py |
-│── style.css |   
-│── header.html | 
-│── cache/ | Pasta usada pelo FastF1 |
-│── .env | Chave da API Groq |
+│── app.py 
+│── utils_f1.py 
+│── style.css   
+│── header.html 
+│── cache/ | Pasta usada pelo FastF1 
+│── .env | Chave da API Groq 
 
 ---
 
