@@ -52,6 +52,13 @@ git clone https://github.com/DITTOio/Chatbot_F1.git
 cd Chatbot_F1
 
 ```
+Instale as dependências:
+```bash
+pip install streamlit groq python-dotenv fastf1 requests pandas numpy matplotlib
+```
+
+
+
 ## Configuração da API Groq
 
 Crie o arquivo .env na raiz do projeto:
