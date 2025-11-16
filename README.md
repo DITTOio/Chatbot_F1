@@ -42,3 +42,13 @@ Chatbot_F1/
 | **Groq API (Llama 3.1)** |
 | **FastF1** |
 | **HTML + CSS** |
+
+## 🔧 Instalação
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/DITTOio/Chatbot_F1.git
+cd Chatbot_F1
+
+
