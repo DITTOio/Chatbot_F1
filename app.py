@@ -13,7 +13,7 @@ load_dotenv()
 API_KEY = os.getenv("GROQ_API_KEY")
 
 if not API_KEY:
-    st.error("⚠️ Crie um arquivo .env com: GROQ_API_KEY=sua_chave")
+    st.error("ERROR:Crie um arquivo .env com: GROQ_API_KEY=sua_chave")
     st.stop()
 
 client = Groq(api_key=API_KEY)
@@ -89,3 +89,4 @@ with st.container():
         st.markdown(f'<div class="answer-box">{resposta}</div>', unsafe_allow_html=True)
 
     st.markdown("</div>", unsafe_allow_html=True)
+
