@@ -35,9 +35,10 @@ Chatbot_F1/
 
 ## Tecnologias
 
+| Tecnologia |
 |-----------|
 | **Python** | 
-| **Streamlit** | 
-| **Groq API (Llama 3.1)** | 
-| **FastF1** | 
+| **Streamlit** |
+| **Groq API (Llama 3.1)** |
+| **FastF1** |
 | **HTML + CSS** |
