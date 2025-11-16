@@ -43,7 +43,7 @@ Chatbot_F1/
 | **FastF1** |
 | **HTML + CSS** |
 
-## 🔧 Instalação
+## Instalação
 
 Clone o repositório:
 
@@ -51,4 +51,24 @@ Clone o repositório:
 git clone https://github.com/DITTOio/Chatbot_F1.git
 cd Chatbot_F1
 
+```
+## Configuração da API Groq
 
+Crie o arquivo .env na raiz do projeto:
+
+```bash
+GROQ_API_KEY=sua_chave_aqui
+```
+A chave pode ser criada gratuitamente em:
+https://console.groq.com/keys
+
+## Como rodar o projeto
+
+Execute:
+```bash
+python -m streamlit run app.py
+-----
+streamlit run app.py
+```
+Acesse no navegador:
+http://localhost:8501/
